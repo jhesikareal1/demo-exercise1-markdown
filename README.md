@@ -12,3 +12,7 @@ MarkDown cheatsheet
 <!-- Italics -->
 _This paragraph is going to be italic using underscores_
 *This paragraph is going to be italic using stars*
+
+<!-- Strong -->
+This will look bold **Strong**
+This will look bold __Strong__
