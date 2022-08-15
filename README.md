@@ -7,3 +7,8 @@
 ##### Heading 5
 ###### Heading 6
 MarkDown cheatsheet
+
+
+<!-- Italics -->
+_This paragraph is going to be italic using underscores_
+*This paragraph is going to be italic using stars*
