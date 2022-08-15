@@ -22,3 +22,5 @@ This will look bold __Strong__
 <!-- Horizontal Rule -->
 Using  triple hyphens will be able to create horizontal rules to separate content
 ---
+Using  triple hyphens will be able to create horizontal rules to separate content
+___
